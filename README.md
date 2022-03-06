@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## :book: :
+1. Django, Python :heart:
+2. React, JavaScript :broken_heart:
+
 
