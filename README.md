@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## :book: :
-Learning is always first, we learn till we die:skull:. I am most excited about Python and learning the inner parts of this amazing language. <br />
+Learning is always first, we learn till we die:skull:.  <br /> 
+I am most excited about Python and learning the inner parts of this amazing language. <br />
 I am currently investing a lot of time learning React as well. <br />
 I almost forgot to mention: I :rage: Material ui and everything that has to be with :sparkles:.
 
