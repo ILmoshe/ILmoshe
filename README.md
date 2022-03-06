@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## :book: :
-1. Python :heart:
-2. C :broken_heart:
+Learning is always first, we learn till we die:skull:. I am most excited about Python and learning the inner parts of this amazing language.
+I am currently investing a lot of time learning React as well.
 
-## :yum: :
-1. Django
-2. React
+## :hammer: :
+I Wish I would be able to tell you the amazing stuff I do :heart_eyes:.
 
