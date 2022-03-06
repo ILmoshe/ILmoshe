@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## :book: :
-1. Django, Python :heart:
-2. React, JavaScript :broken_heart:
+1. Python :heart:
+2. C :broken_heart:
 
+## :yum: :
+1. Django
+2. React
 
