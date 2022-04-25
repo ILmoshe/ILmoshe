@@ -22,7 +22,7 @@ I am currently investing a lot of time learning React as well. <br />
 I almost forgot to mention: I :rage: Material ui and everything that has to be with :sparkles:.
 
 ## :hammer: :
-Some amazing backend with the famous framework Django. <br />
+Some amazing backend with FASTAPI. <br />
 Making million components with React and MUI. 
 :heart_eyes:. <br />
 
