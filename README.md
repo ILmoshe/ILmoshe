@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 ## :book: :
-Learning is always first!
+
 ### In middle of reading:
 1. [Fluent python ](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
 2. [Hands-On Machine Learning ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
@@ -36,9 +36,11 @@ Learning is always first!
 4. [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730)
 5. [React Explained](https://ostraining.com/books/react/)
 
+
 ## :hammer: :
 ❇️ projects to make the world a better place at [AKA](https://www.aka.co.il/) <br/>
 fullstack projects.
+
 
 ## 📁
 #### programming language
