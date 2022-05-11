@@ -1,5 +1,5 @@
 ### Hi ladies and gentelman 👋
-My name is Moshe Mizrachi I currently live in Jerusalem 🇮🇱. You can ask me anything, as a self-taught I will dig days and nigths try to find a solution, and I will find. <br/> <br/>
+My name is Moshe Mizrachi I currently live in 🇮🇱. You can ask me anything, as a self-taught I will dig days and nigths try to find a solution, and I will find. <br/> <br/>
 I like 📷, I don't just like, I ❤️ it, am doing it for years.<br/>
 I play ⚽ every week. <br/> <br/>
 You are wellcome to 📧 me at: `moshe@aka.co.il`
