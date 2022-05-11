@@ -1,4 +1,10 @@
 ### Hi ladies and gentelman 👋
+My name is Moshe Mizrachi I currently live in Jerusalem 🇮🇱. You can ask me anything, as a self-taught I will dig days and nigths try to find a solution, and I will find. <br/> <br/>
+I like 📷, I don't just like, I ❤️ it, am doing it for years.<br/>
+I play ⚽ every week. <br/> <br/>
+You are wellcome to 📧 me at: `moshe@aka.co.il`
+
+
 
 <!--
 **ILmoshe/ILmoshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +21,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 ## :book: :
-Learning is always first, we learn till we die:skull:.  <br /> 
-I am most excited about Python and learning the inner parts of this amazing language. <br />
-I am currently investing a lot of time learning React as well. <br />
-I almost forgot to mention: I :rage: Material ui and everything that has to be with :sparkles:.
+Tutorials and blogs on the internet are great but books are better
+### In middle of reading:
+1. [Fluent python ](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
+2. [Hands-On Machine Learning ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+3. [JavaScript: The Definitive Guide](https://www.amazon.com/JavaScript-Definitive-Most-Used-Programming-Language/dp/1491952024)
+### Finished or got board:
+1. [Python Crash Course, 2nd Edition](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280)
+2. [Django for APIs](https://djangoforapis.com/)
+3. [Django for beginners](https://djangoforbeginners.com/)
+4. [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730)
+5. [React Explained](https://ostraining.com/books/react/)
 
 ## :hammer: :
 Some amazing backend with FASTAPI. <br />
