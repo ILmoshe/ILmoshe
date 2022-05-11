@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 ## :book: :
-Tutorials and blogs on the internet are great but books are better
+Learning is always first!
 ### In middle of reading:
 1. [Fluent python ](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
 2. [Hands-On Machine Learning ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
@@ -38,23 +38,25 @@ Tutorials and blogs on the internet are great but books are better
 
 ## :hammer: :
 ❇️ projects to make the world a better place at [AKA](https://www.aka.co.il/) <br/>
-fullstack projects realted to dutys I have.
+fullstack projects.
 
 ## 📁
-(programming langauage)
+#### programming language
 1. Python
 2. JavaScript
 3. Java
 4. C
 
-(technologies)
+#### technologies
 1. Django
 2. Django Rest
 3. FastApi
 4. React
-(some other stuff...)
-1. MQTT
-2. SOCKETS
-3. RESTapi
+5. Scikit-Learn(coming soon 🤰)
+
+#### some other stuff...
+6. MQTT
+7. SOCKETS
+8. RESTapi
 
 
