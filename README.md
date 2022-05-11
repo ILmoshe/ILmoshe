@@ -37,7 +37,24 @@ Tutorials and blogs on the internet are great but books are better
 5. [React Explained](https://ostraining.com/books/react/)
 
 ## :hammer: :
-Some amazing backend with FASTAPI. <br />
-Making million components with React and MUI. 
-:heart_eyes:. <br />
+❇️ projects to make the world a better place at [AKA](https://www.aka.co.il/) <br/>
+fullstack projects realted to dutys I have.
+
+## 📁
+(programming langauage)
+1. Python
+2. JavaScript
+3. Java
+4. C
+
+(technologies)
+1. Django
+2. Django Rest
+3. FastApi
+4. React
+(some other stuff...)
+1. MQTT
+2. SOCKETS
+3. RESTapi
+
 
