@@ -2,6 +2,7 @@
 My name is Moshe Mizrachi I currently live in 🇮🇱.<br/>
 I like 📷, I don't just like, I ❤️ it, am doing it for years.<br/>
 I play ⚽ every week. <br/> <br/>
+I also like reading some technical books.
 
 
 
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!-- 
 
 ## :book: :
 
@@ -58,6 +59,6 @@ fullstack projects.
 #### some other stuff...
 6. MQTT
 7. SOCKETS
-8. RESTapi
+8. RESTapi -->
 
 
